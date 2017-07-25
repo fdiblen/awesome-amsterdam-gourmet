@@ -1,7 +1,7 @@
 # awesome-amsterdam-gourmet
 A curated list of awesome stuff in Amsterdam
 
-| Suggested by  | Cuisine  | Name          | web                    | address          | Suggestion                 | 
+| Suggested by  | Cuisine  | Name          | web                    | address          | Suggestion/Scomment                 | 
 | ------------- | -------  | ------------- |:----------------------:| ------------- | -----------------------------:|
 | Faruk         | Lebanese | The Sajeria   | http://thesajeria.com/ | Wijde Heisteeg 1, Amsterdam | Try zaatar and hallumi  |
 | Faruk         | Middle East | Star BBQ   | http://www.starbbq.nl/| Javastraat 28, Amsterdam | Irakese kabab (Adana kebab)  |
@@ -18,5 +18,8 @@ A curated list of awesome stuff in Amsterdam
 | Faruk | Hummus restaurant | Sir Hummus | http://sirhummus.nl | Van der Helstplein 2 |  CARNIVORA |
 | Faruk |  | Cafe De Klos | https://www.facebook.com/pages/Caf%C3%A9-de-Klos/163487837137228 | Kerkstraat 41-43 |  Regular spare ribs or Lamb shoulder **No reservation** |
 | Faruk | American(Bakery/cafe) | | https://www.dedriegraefjes.nl | Rokin 128 | Deserts |
+| Faruk | Turkish | Leeman Doner | http://leemandoner.nl | Van Woustraat 160 | One of the best Doner kebabs in Amsterdam |
+
+
 
 

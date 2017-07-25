@@ -10,3 +10,4 @@ A curated list of awesome stuff in Amsterdam
 | Faruk | Spanish | La Oliva  | http://laoliva.nl/en/ | Egelantiersstraat 122-124, Amsterdam | |
 | Faruk | Italian | Pasta E Basta  | http://www.pastaebasta.nl/en/| Nieuwe Spiegelstraat 8, Amsterdam | Awesome music experience and buffet menu :P|
 | Faruk | French | Brasserie Van Baerle  | http://www.brasserievanbaerle.nl/?lang=en | Van Baerlestraat 158, Amsterdam | Rib eye! |
+| Tom | Asian | Vijfnulvijf  | http://vijfnulvijf.nl/ | Insulindeweg 505 | Asian streetfood; try pork belly bun and duck sushi! |

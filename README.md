@@ -14,5 +14,7 @@ A curated list of awesome stuff in Amsterdam
 | Faruk | Turkish | Antep Sofrasi | http://www.gaziantepsofrasi.nl/ | Borneostraat 92| Icli kofte, Kusleme, Ali Nazik, Patlican kebabi |
 | Faruk | Breakfast | Omelegg | http://omelegg.com/ | Ferdinand Bolstraat 143 | |
 | Faruk | Breakfast/Cafe | De Laatste Kruimel | http://delaatstekruimel.nl | Langebrugsteeg 4 |  Yummy Quiches! |
+| Faruk | Steak House | Loetje | https://loetje.com/ | Several places. Check the website |  Of course Steak |
+
 
 

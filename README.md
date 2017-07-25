@@ -19,7 +19,7 @@ A curated list of awesome stuff in Amsterdam
 | Faruk |  | Cafe De Klos | https://www.facebook.com/pages/Caf%C3%A9-de-Klos/163487837137228 | Kerkstraat 41-43 |  Regular spare ribs or Lamb shoulder **No reservation** |
 | Faruk | American(Bakery/cafe) | | https://www.dedriegraefjes.nl | Rokin 128 | Deserts |
 | Faruk | Turkish | Leeman Doner | http://leemandoner.nl | Van Woustraat 160 | One of the best Doner kebabs in Amsterdam |
-
+| Faruk | Turkish | Konak Restaurant | http://www.konakrestaurant.nl | Burgemeester de Vlugtlaan 83 | One of the few decent restaurants in Amsterdam. Call and ask for kuzu incik :) |
 
 
 

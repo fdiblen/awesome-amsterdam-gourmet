@@ -17,7 +17,6 @@ A curated list of awesome stuff in Amsterdam
 | Faruk | Steak House | Loetje | https://loetje.com/ | Several locations. Check the website |  Of course Steak |
 | Faruk | Hummus restaurant | Sir Hummus | http://sirhummus.nl | Van der Helstplein 2 |  CARNIVORA |
 | Faruk |  | Cafe De Klos | https://www.facebook.com/pages/Caf%C3%A9-de-Klos/163487837137228 | Kerkstraat 41-43 |  Regular spare ribs or Lamb shoulder **No reservation** |
-
 | Faruk | American(Bakery/cafe) | | https://www.dedriegraefjes.nl | Rokin 128 | Deserts |
 
 

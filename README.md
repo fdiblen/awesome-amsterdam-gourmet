@@ -5,6 +5,8 @@ A list of foodie places I like in (moslty) Amsterdam.
 You are welcome if you want to add a spot. 
 
 [Restaurants](restaurants.md)
+
+
 [Bars](bars.md) - not added yet
 
 

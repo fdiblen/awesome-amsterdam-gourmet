@@ -20,6 +20,6 @@ A curated list of awesome stuff in Amsterdam
 | Faruk | American(Bakery/cafe) | | https://www.dedriegraefjes.nl | Rokin 128 | Deserts |
 | Faruk | Turkish | Leeman Doner | http://leemandoner.nl | Van Woustraat 160 | One of the best Doner kebabs in Amsterdam |
 | Faruk | Turkish | Konak Restaurant | http://www.konakrestaurant.nl | Burgemeester de Vlugtlaan 83 | One of the few decent restaurants in Amsterdam. Call and ask for kuzu incik :) |
-| Yifat | Falafel | Sir Hummus kitchen | http://www.konakrestaurant.nl | Ruysdaelkade 181 1072 AT | hand-made pita filled with the best falafel in Amsterdam|
+| Yifat | Falafel | Sir Hummus kitchen | https://www.sirhummus.nl | Ruysdaelkade 181 1072 AT | hand-made pita filled with the best falafel in Amsterdam|
 
 

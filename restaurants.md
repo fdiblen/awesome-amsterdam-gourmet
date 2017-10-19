@@ -1,7 +1,7 @@
 # awesome-amsterdam-gourmet
 A curated list of awesome stuff in Amsterdam
 
-| Suggested by  | Cuisine  | Name          | web                    | address          | Suggestion/Scomment                 | 
+| Suggested by  | Cuisine  | Name          | web                    | address          | Suggestion/Comment                 | 
 | ------------- | -------  | ------------- |:----------------------:| ------------- | -----------------------------:|
 | Faruk         | Lebanese | The Sajeria   | http://thesajeria.com/ | Wijde Heisteeg 1, Amsterdam | Try zaatar and hallumi  |
 | Faruk         | Middle East | Star BBQ   | http://www.starbbq.nl/| Javastraat 28, Amsterdam | Irakese kabab (Adana kebab)  |

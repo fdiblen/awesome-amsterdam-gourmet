@@ -21,5 +21,5 @@ A curated list of awesome stuff in Amsterdam
 | Faruk | Turkish | Leeman Doner | http://leemandoner.nl | Van Woustraat 160 | One of the best Doner kebabs in Amsterdam |
 | Faruk | Turkish | Konak Restaurant | http://www.konakrestaurant.nl | Burgemeester de Vlugtlaan 83 | One of the few decent restaurants in Amsterdam. Call and ask for kuzu incik :) |
 | Yifat | Falafel | Sir Hummus kitchen | https://www.sirhummus.nl | Ruysdaelkade 181 1072 AT | hand-made pita filled with the best falafel in Amsterdam|
-
+| Stefano | Sea Food / Fish | The Seafood Bar | http://www.theseafoodbar.com/ | Van Baerlestraat 5, 1071 AL | Really not bad for being in Amsterdam |
 
